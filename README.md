@@ -8,6 +8,6 @@ It can be used for graphical simulations, games or simply for playing around for
 I did it in vscode so for it to work there you must open the folder in vscode for compilation as I already have the configs ready made for compilation
 
 # REQUIRED
-# YOU WILL NEED TO HAVE A ACTIVE C++ INSTALLATION FOR IT TO WORK
+YOU WILL NEED TO HAVE A ACTIVE C++ INSTALLATION FOR IT TO WORK
 
 the exe file is what will be displayed if the code is not modified
